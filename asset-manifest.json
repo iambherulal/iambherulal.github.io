@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iambherulal.github.io/static/css/main.e365f54c.chunk.css",
+    "main.js": "/iambherulal.github.io/static/js/main.a8db704c.chunk.js",
+    "main.js.map": "/iambherulal.github.io/static/js/main.a8db704c.chunk.js.map",
+    "runtime-main.js": "/iambherulal.github.io/static/js/runtime-main.6f10c61d.js",
+    "runtime-main.js.map": "/iambherulal.github.io/static/js/runtime-main.6f10c61d.js.map",
+    "static/js/2.a64e31c8.chunk.js": "/iambherulal.github.io/static/js/2.a64e31c8.chunk.js",
+    "static/js/2.a64e31c8.chunk.js.map": "/iambherulal.github.io/static/js/2.a64e31c8.chunk.js.map",
+    "index.html": "/iambherulal.github.io/index.html",
+    "static/css/main.e365f54c.chunk.css.map": "/iambherulal.github.io/static/css/main.e365f54c.chunk.css.map",
+    "static/js/2.a64e31c8.chunk.js.LICENSE.txt": "/iambherulal.github.io/static/js/2.a64e31c8.chunk.js.LICENSE.txt",
+    "static/media/bherulalgameti.602bcbbe.jpg": "/iambherulal.github.io/static/media/bherulalgameti.602bcbbe.jpg",
+    "static/media/bherulalgametidark.491f097f.png": "/iambherulal.github.io/static/media/bherulalgametidark.491f097f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f10c61d.js",
+    "static/js/2.a64e31c8.chunk.js",
+    "static/css/main.e365f54c.chunk.css",
+    "static/js/main.a8db704c.chunk.js"
+  ]
+}
