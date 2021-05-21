@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff24d3ce.chunk.css",
-    "main.js": "/static/js/main.32267352.chunk.js",
-    "main.js.map": "/static/js/main.32267352.chunk.js.map",
+    "main.css": "/static/css/main.10cf03c3.chunk.css",
+    "main.js": "/static/js/main.cdcda4c6.chunk.js",
+    "main.js.map": "/static/js/main.cdcda4c6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4c484162.js",
     "runtime-main.js.map": "/static/js/runtime-main.4c484162.js.map",
     "static/js/2.a64e31c8.chunk.js": "/static/js/2.a64e31c8.chunk.js",
     "static/js/2.a64e31c8.chunk.js.map": "/static/js/2.a64e31c8.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ff24d3ce.chunk.css.map": "/static/css/main.ff24d3ce.chunk.css.map",
+    "static/css/main.10cf03c3.chunk.css.map": "/static/css/main.10cf03c3.chunk.css.map",
     "static/js/2.a64e31c8.chunk.js.LICENSE.txt": "/static/js/2.a64e31c8.chunk.js.LICENSE.txt",
-    "static/media/bherulalgameti.602bcbbe.jpg": "/static/media/bherulalgameti.602bcbbe.jpg",
-    "static/media/bherulalgametidark.491f097f.png": "/static/media/bherulalgametidark.491f097f.png"
+    "static/media/bheru_lal_gameti.f55c83fc.jpg": "/static/media/bheru_lal_gameti.f55c83fc.jpg",
+    "static/media/bherulalgameti_about.9947ed11.png": "/static/media/bherulalgameti_about.9947ed11.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4c484162.js",
     "static/js/2.a64e31c8.chunk.js",
-    "static/css/main.ff24d3ce.chunk.css",
-    "static/js/main.32267352.chunk.js"
+    "static/css/main.10cf03c3.chunk.css",
+    "static/js/main.cdcda4c6.chunk.js"
   ]
 }
