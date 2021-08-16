@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.10cf03c3.chunk.css",
-    "main.js": "/static/js/main.cdcda4c6.chunk.js",
-    "main.js.map": "/static/js/main.cdcda4c6.chunk.js.map",
+    "main.css": "/static/css/main.f1cc69f9.chunk.css",
+    "main.js": "/static/js/main.cbc9bf0a.chunk.js",
+    "main.js.map": "/static/js/main.cbc9bf0a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4c484162.js",
     "runtime-main.js.map": "/static/js/runtime-main.4c484162.js.map",
-    "static/js/2.a64e31c8.chunk.js": "/static/js/2.a64e31c8.chunk.js",
-    "static/js/2.a64e31c8.chunk.js.map": "/static/js/2.a64e31c8.chunk.js.map",
+    "static/js/2.beca3851.chunk.js": "/static/js/2.beca3851.chunk.js",
+    "static/js/2.beca3851.chunk.js.map": "/static/js/2.beca3851.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.10cf03c3.chunk.css.map": "/static/css/main.10cf03c3.chunk.css.map",
-    "static/js/2.a64e31c8.chunk.js.LICENSE.txt": "/static/js/2.a64e31c8.chunk.js.LICENSE.txt",
+    "static/css/main.f1cc69f9.chunk.css.map": "/static/css/main.f1cc69f9.chunk.css.map",
+    "static/js/2.beca3851.chunk.js.LICENSE.txt": "/static/js/2.beca3851.chunk.js.LICENSE.txt",
     "static/media/bheru_lal_gameti.f55c83fc.jpg": "/static/media/bheru_lal_gameti.f55c83fc.jpg",
     "static/media/bherulalgameti_about.9947ed11.png": "/static/media/bherulalgameti_about.9947ed11.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4c484162.js",
-    "static/js/2.a64e31c8.chunk.js",
-    "static/css/main.10cf03c3.chunk.css",
-    "static/js/main.cdcda4c6.chunk.js"
+    "static/js/2.beca3851.chunk.js",
+    "static/css/main.f1cc69f9.chunk.css",
+    "static/js/main.cbc9bf0a.chunk.js"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "main": {
+    "name": "Bheru lal Gameti",
+    "email": "iambherulal@gmail.com",
+    "occupation": "WordPress Developer"
+  },
+  "menuItems": ["Home", "About", "Why Choose", "Process", "Contact"],
+  "social": {
+    "text": "I've been a WordPress developer for 4+ years. I live and breathe WordPress. My custom-built websites are fast loading, accessible, and easy to manage. My design partners will help you improve conversion rates and user engagement."
+  }
+}
