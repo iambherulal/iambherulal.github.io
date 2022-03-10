@@ -42,12 +42,7 @@ function Banner() {
                   url="https://profiles.wordpress.org/iambherulal"
                   icon="fab fa-wordpress"
                 />
-                <SocialMedia
-                  title="globally digital"
-                  url="https://www.globally.digital"
-                  icon="fas fa-globe-asia"
-                />
-              </ul>
+               </ul>
               <a href="/#" data-scroll-nav="2" className="about-me-banner">
                 <span className="icon">
                   <i className="fas fa-arrow-down"></i>
